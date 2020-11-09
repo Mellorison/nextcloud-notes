@@ -210,7 +210,7 @@
     <string name="formatting_help_codefence" translateable="false">```</string>
     <string name="formatting_help_codefence_javascript" translateable="false">```javascript</string>
     <string name="formatting_help_cbf_title">Formatado baseado no contexto</string>
-    <string name="formatting_help_cbf_body_1">Un dos principais obxectivos de deseño da aplicación Notes é fornecer unha ferramenta sen distracción. Aínda que poderá formatar os seus textos con Markdown. Para varios dos exemplos mencionados a continuación, pode utilizar atallos de teclado para poder formatar as súas notas sen escribir os códigos de embaixo.</string>
+    <string name="formatting_help_cbf_body_1">Un dos principais obxectivos de deseño da aplicación Notes é fornecer unha ferramenta sen distracción. Aínda que poderá formatar os seus textos con Markdown. Para varios dos exemplos mencionados deseguido, pode utilizar atallos de teclado para poder formatar as súas notas sen escribir os códigos de embaixo.</string>
     <string name="formatting_help_cbf_body_2">Só ten que seleccionar un intervalo de texto ou tocar no cursor en calquera posición e obterá un menú emerxente que contén xunto ás entradas predeterminadas %1$s, %2$s, %3$s entradas como %4$s ou %5$s.</string>
 
     <string name="formatting_help_text_title">Texto</string>

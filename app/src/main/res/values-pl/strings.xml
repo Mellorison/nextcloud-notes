@@ -241,7 +241,7 @@
     <string name="formatting_help_checkboxes_body_3">Pozycja 2</string>
 
     <string name="formatting_help_structured_documents_title">Dokumenty strukturalne</string>
-    <string name="formatting_help_structured_documents_body_1">Czasami przydatne jest posiadanie różnych poziomów nagłówków w celu uporządkowania dokumentów. Rozpocznij wiersze od znaku %1$s, aby utworzyć nagłówki. Wiele %2$s w rzędzie oznacza mniejsze rozmiary nagłówków.</string>
+    <string name="formatting_help_structured_documents_body_1">Czasami przydatne jest posiadanie różnych poziomów nagłówków w celu uporządkowania dokumentów. Rozpocznij wiersze od znaku %1$s, aby utworzyć nagłówki. Wielokrotność %2$s w rzędzie oznacza mniejsze rozmiary nagłówków.</string>
     <string name="formatting_help_structured_documents_body_2">To nagłówek trzeciego poziomu</string>
     <string name="formatting_help_structured_documents_body_3">Możesz użyć jednego %1$s aż do sześciu %2$s dla różnych rozmiarów nagłówka.</string>
     <string name="formatting_help_structured_documents_body_4">Jeśli chcesz kogoś zacytować, użyj znaku %1$s przed wierszem:</string>
@@ -250,7 +250,7 @@
 
     <string name="formatting_help_code_title">Kod</string>
     <string name="formatting_help_code_body_1">Istnieje wiele różnych sposobów stylizowania kodu za pomocą Markdown. Jeśli masz wbudowane bloki kodu, zawiń je w backticks:</string>
-    <string name="formatting_help_code_body_2">Markdown obsługuje również coś, co nazywa się szermierką kodu, co pozwala na wiele linii bez wcięć:</string>
+    <string name="formatting_help_code_body_2">Markdown obsługuje również coś, co nazywa się szermierką kodu, która pozwala na wiele linii bez wcięć:</string>
     <string name="formatting_help_code_body_3">A jeśli chcesz użyć podświetlania składni, uwzględnij język:</string>
 
     <string name="formatting_help_unsupported_title">Niewspierane</string>

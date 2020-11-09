@@ -257,7 +257,7 @@
     <string name="formatting_help_unsupported_body_1">Čeprav se neprestano trudimo izboljšati podporo za oblikovanje Markdown, je še vedno nekaj zmožnosti, ki niso podprte:</string>
     <string name="formatting_help_unsupported_body_2">Razpredelnice</string>
     <string name="formatting_help_unsupported_body_3">Slike</string>
-    <string name="formatting_help_unsupported_body_4">Če želite sodelovati pri razvoju ali pa drugače pomagati in podpreti katerokoli od navedenih možnosti, stopite z nami v stik prek GitHub ali po elektronski pošti.</string>
+    <string name="formatting_help_unsupported_body_4">Če želite sodelovati pri razvoju, ali pa drugače pomagati in podpreti katerokoli od navedenih možnosti, stopite z nami v stik prek GitHub oziroma po elektronski pošti.</string>
     <string name="simple_other">Drugo</string>
     <string name="sort_last_modified">Razvrsti po datumu spremembe</string>
     <string name="sort_alphabetically">Razvrsti abecedno</string>
